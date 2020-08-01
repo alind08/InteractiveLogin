@@ -1,6 +1,11 @@
 # interactivelogin
 
 A new Flutter app with interactive login.
+Made this using #Flutter and #Rive. Following are the animations that this teddy does:
+1. Follows as you type.
+2. Closes eyes while you enter the password.
+3. Reacts happily when credentials match.
+4. Reacts sad when credentials don't match.
 
 ## Getting Started
 
